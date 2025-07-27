@@ -1,13 +1,9 @@
-package com.example.reactiveProgramming.Publisher;
+package com.example.reactiveProgramming.sec01.Publisher;
 
-import com.example.reactiveProgramming.Subscriber.SubscriberImpl;
 import org.reactivestreams.Publisher;
 import org.reactivestreams.Subscriber;
-import org.reactivestreams.Subscription;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
-import java.util.List;
 
 public class PublisherImpl implements Publisher<String> {
 

@@ -1,7 +1,7 @@
-package com.example.reactiveProgramming;
+package com.example.reactiveProgramming.sec01;
 
-import com.example.reactiveProgramming.Publisher.PublisherImpl;
-import com.example.reactiveProgramming.Subscriber.SubscriberImpl;
+import com.example.reactiveProgramming.sec01.Publisher.PublisherImpl;
+import com.example.reactiveProgramming.sec01.Subscriber.SubscriberImpl;
 
 import java.time.Duration;
 

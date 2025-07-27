@@ -1,4 +1,4 @@
-package com.example.reactiveProgramming.Subscriber;
+package com.example.reactiveProgramming.sec01.Subscriber;
 
 import org.reactivestreams.Subscriber;
 import org.reactivestreams.Subscription;
