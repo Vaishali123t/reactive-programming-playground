@@ -1,4 +1,4 @@
-package com.example.reactive_programming_playground;
+package com.example.reactiveProgramming;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
